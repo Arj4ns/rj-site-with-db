@@ -4,7 +4,7 @@ import axios from "axios"
 function Grid(){
     return(
         <div id="flex-grid">
-            <p>grid loADED</p>
+            
         </div>
     )
 }
